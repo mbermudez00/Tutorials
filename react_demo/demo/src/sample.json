@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "title":"Aliens",
+        "director": "juan lopez",
+        "rating": "8.5"
+    },
+    {
+        "id":"2",
+        "title":"Lego",
+        "director": "jose perez",
+        "rating": "9"
+    }
+]
